@@ -44,3 +44,5 @@ def getBooking(was):
 if __name__ == "__main__":
 	dialog_bot = DialogBot(token, dialog)
 	dialog_bot.start()
+	
+#test minor change
